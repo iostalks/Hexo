@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Xiaofei's Blog
+title: iOSTalk Blog
 subtitle:
 description:
 author: 小飞 蒋
@@ -68,9 +68,6 @@ theme: Hacker
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
--  type: git 
-   repo: git@git.coding.net:Jiangxiaofei/jiangxiaofei.git
-   branch: master
 -  type: git
    repo: git@github.com:iostalks/iostalks.github.io.git
    branch: master
